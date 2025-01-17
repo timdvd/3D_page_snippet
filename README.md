@@ -14,7 +14,7 @@ Technologies Used:
 You may clone repository with this command: 
 git clone https://github.com/timdvd/3D_page_snippet.git
 
-Preview: 
+Preview: https://timdvd.github.io/3D_page_snippet/
 
 Screenshots:
 ![Screenshot 2025-01-17 182451](https://github.com/user-attachments/assets/4231087f-c55a-4b37-acc0-9a37a4b6b92b)
