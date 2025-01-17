@@ -12,6 +12,7 @@ Technologies Used:
  - JavaScript: Adds interactivity and dynamic effects.
 
 You may clone repository with this command: 
+git clone https://github.com/timdvd/3D_page_snippet.git
 
 Preview: 
 
